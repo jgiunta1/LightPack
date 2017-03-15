@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LightPack</string>
+    <string name="connect">Connect Device</string>
+    <string name="destination">Enter Destination</string>
+    <string name="edit_latitude">Latitude</string>
+    <string name="edit_longitude">Longitude</string>
+    <string name="enter">Enter</string>
+</resources>
